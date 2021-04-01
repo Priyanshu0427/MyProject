@@ -4,3 +4,4 @@ numpy==1.19.5
 opencv_python_headless==4.5.1.48
 NudeNet==2.0.9
 Pillow==8.1.2
+tensorflow==2.4.1
