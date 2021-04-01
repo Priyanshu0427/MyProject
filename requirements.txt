@@ -1,0 +1,6 @@
+streamlit==0.76.0
+cvlib==0.2.6
+numpy==1.19.5
+opencv_python_headless==4.5.1.48
+NudeNet==2.0.9
+Pillow==8.1.2
