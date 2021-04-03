@@ -10,7 +10,6 @@ pdf2img==0.1.2
 pytesseract==0.3.7
 typing_extensions==3.7.4.3
 docutils==0.16
-pywin32==225
 brotli==1.0.9
 cryptography==3.4.7
 keyring==23.0.1
